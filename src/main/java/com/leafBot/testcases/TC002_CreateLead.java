@@ -11,7 +11,7 @@ public class TC002_CreateLead extends Annotations{
 	@BeforeTest
 	public void setData() {
 		testcaseName = "TC001_Login";
-		testcaseDec = "Loging into LeafTaps";
+		testcaseDec = "Loging into LeafTaps Application";
 		author = "Sam";
 		category = "Smoke";
 	}
